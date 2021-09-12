@@ -1,5 +1,7 @@
 # Keycloak Event Provider Example
 
+JAR can be found at https://github.com/CharlyRipp/keycloak-user-details-provider/suites/3747362022/artifacts/91936861
+
 ## Basics
 
 - Create Provider Factory ([UserDetailsEvantListenerProvider](src/main/java/io/ripp/keycloak/userdetails/provider/UserDetailsEventListenerProvider.java))
